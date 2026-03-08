@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "svenkates1235"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"SInkLinked_password": {
+			"value": ""
+		},
+		"SourcelinedService_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://amaras12326.dfs.core.windows.net/"
+		},
+		"SInkLinked_properties_typeProperties_server": {
+			"value": "demobrowsejobs1234.database.windows.net"
+		},
+		"SInkLinked_properties_typeProperties_database": {
+			"value": "sunilrohitj234"
+		},
+		"SInkLinked_properties_typeProperties_userName": {
+			"value": "admin19126"
+		},
+		"SourcelinedService_properties_typeProperties_url": {
+			"value": "https://amaras12326.dfs.core.windows.net/"
+		}
+	}
+}
